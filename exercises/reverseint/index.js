@@ -8,6 +8,12 @@
 //   reverseInt(-15) === -51
 //   reverseInt(-90) === -9
 
-function reverseInt(n) {}
+function reverseInt(n) {
+    
+}
+
+//Math.sign(x) ---> returns 1 if positive and -1 if negative
+//number.toString()
+//parseInt(string)
 
 module.exports = reverseInt;
